@@ -37,7 +37,7 @@ elif [[ "${ALIEN_THEME}" == "blue" ]]; then
   color7=238    # vcs bg
   color8=228    # prompt fg
   color9=051    # vcs fg
-elif [[ "${ALIEN_THEME}" == "custom"]]; then
+elif [[ "${ALIEN_THEME}" == "custom" ]]; then
   color0=075    # time bg
   color1=076    # init bg
   color1r=088   # init bg error
