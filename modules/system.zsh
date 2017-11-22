@@ -11,7 +11,7 @@ alien_storage_info(){
 }
 
 alien_date_time_info(){
-  echo -n "`date +%r`";
+  echo -n "`date +%R`";
 }
 
 alien_ssh_client(){
