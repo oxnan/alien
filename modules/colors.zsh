@@ -44,7 +44,7 @@ elif [[ "${ALIEN_THEME}" == "custom" ]]; then
   color2=000    # time fg
   color3=074    # user bg
   color4=000    # user fg
-  color5=073    # dir bg
+  color5=214    # dir bg
   color6=000    # dir fg
   color7=238    # vcs bg
   color8=053    # prompt fg
